@@ -2,12 +2,12 @@
 <br>
 This is a basic web page designed for a photo studio.
 <br>
-Project Structure:
+<b>Project Structure:</b>
 <br>
 index.html: This is the main HTML file that serves as the homepage of the website.<br>
 styles.css: This file contains the CSS styling for the website.<br>
 images: This directory contains all the images used in the website<br>
-Features:<br>
+<b>Features:</b><br>
 It has a slide menu bar which holds options like<br>
 1.Gallery<br>
 2.Shortcuts<br>
