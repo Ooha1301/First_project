@@ -1,17 +1,19 @@
 #  This is a basic project done using HTML and CSS.
 <br>
 This is a basic web page designed for a photo studio.
+<br>
 Project Structure:
-index.html: This is the main HTML file that serves as the homepage of the website.
-styles.css: This file contains the CSS styling for the website.
-images: This directory contains all the images used in the website
-Features:
-It has a slide menu bar which holds options like
-1.Gallery
-2.Shortcuts
-3.Exhibits
-4.Events
-5.Store
-6.Contact
-7.Feedback
+<br>
+index.html: This is the main HTML file that serves as the homepage of the website.<br>
+styles.css: This file contains the CSS styling for the website.<br>
+images: This directory contains all the images used in the website<br>
+Features:<br>
+It has a slide menu bar which holds options like<br>
+1.Gallery<br>
+2.Shortcuts<br>
+3.Exhibits<br>
+4.Events<br>
+5.Store<br>
+6.Contact<br>
+7.Feedback<br>
 The side menu bar also has the social media icons related to the page
